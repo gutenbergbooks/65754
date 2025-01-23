@@ -1,0 +1,2207 @@
+﻿The Project Gutenberg eBook of The Middleton Place Privy House, by Helen
+Woolford Haskell
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: The Middleton Place Privy House
+       An Archaeological View of Nineteenth Century Plantation Life
+
+Author: Helen Woolford Haskell
+
+Release Date: July 3, 2021 [eBook #65754]
+
+Language: English
+
+Character set encoding: UTF-8
+
+Produced by: Stephen Hutcheson and the Online Distributed Proofreading
+             Team at https://www.pgdp.net
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE MIDDLETON PLACE PRIVY
+HOUSE ***
+
+
+
+
+                    THE MIDDLETON PLACE PRIVY HOUSE
+      AN ARCHEOLOGICAL VIEW OF NINETEENTH CENTURY PLANTATION LIFE
+
+
+                         Helen Woolford Haskell
+
+
+                      UNIVERSITY OF SOUTH CAROLINA
+                INSTITUTE OF ARCHEOLOGY AND ANTHROPOLOGY
+                            POPULAR SERIES 1
+
+                        Columbia, South Carolina
+
+                            September, 1981
+
+
+_The University of South Carolina offers equal opportunity in its
+employment, admissions and educational activities, in accordance with
+Title IX, section 504 of the Rehabilitation Act of 1973 and other civil
+rights laws._
+
+
+
+
+                           TABLE OF CONTENTS
+
+
+                                                                    Page
+  List of Figures                                                     iv
+  Acknowledgments                                                     vi
+  A brief history of Middleton Place                                   1
+  Archeology at Middleton Place                                        8
+  Pottery and porcelain                                               12
+  Glass tableware                                                     24
+  Glass manufacture in the United States                              29
+  Medicine Bottles                                                    34
+  Wine and spirits bottles                                            39
+  Beer bottles                                                        40
+  South Carolina dispensary bottles                                   43
+  Food containers                                                     45
+  Bottles made after 1900                                             47
+  Lamp glass                                                          49
+  Laboratory glass                                                    52
+  Conclusions                                                         54
+  Appendix I—Ceramic manufacturer’s marks                             56
+  Appendix II—Significant dates in the American Glass Industry        58
+  Appendix III—Marks left by different techniques of bottle
+          manufacture                                                 62
+  Appendix IV—Artifact catalogue from the Middleton Place privy
+          excavation                                                  64
+  Bibliography                                                        73
+
+
+
+
+                            LIST OF FIGURES
+
+
+                                                                    Page
+  FIGURE 1: Locator map of Middleton Place                             3
+  FIGURE 2: British-made white ironstone or granite china, 1891-1900  13
+  FIGURE 3: Chinese export porcelain                                  14
+  FIGURE 4: French Bourbon Sprig or Cornflower porcelain              15
+  FIGURE 5: English porcelain platter                                 16
+  FIGURE 6: Creamware sauce tureen                                    17
+  FIGURE 7: Light blue transfer-printed serving bowl                  19
+  FIGURE 8: Molded white ironstone chamber pot                        19
+  FIGURE 9: English majolica                                          21
+  FIGURE 10: Limoges porcelain                                        22
+  FIGURE 11: Decal-printed Austrian porcelain                         23
+  FIGURE 12: Cut glass pitcher                                        25
+  FIGURE 13: Cut glass decanters                                      26
+  FIGURE 14: Stemmed drinking glasses                                 27
+  FIGURE 15: Ale flute and mascotte wine glass                        27
+  FIGURE 16: Bottle shapes from the Middleton Place privy             32
+  FIGURE 17: Pharmacy bottles                                         34
+  FIGURE 18: Patent medicine bottles                                  36
+  FIGURE 19: Apothecary’s vials                                       38
+  FIGURE 20: Wine and spirits bottles                                 40
+  FIGURE 21: Beer bottles                                             41
+  FIGURE 22: South Carolina Dispensary bottles                        44
+  FIGURE 23: Preserve jar and olive oil bottle                        46
+  FIGURE 24: Armor beef extract jar                                   47
+  FIGURE 25: Twentieth century bottles                                48
+  FIGURE 26: Student lamp chimney                                     50
+  FIGURE 27: Kerosene student and piano lamp                          51
+  FIGURE 28: “Pearl top” and crimped lamp chimneys                    51
+  FIGURE 29: Free-blown laboratory beaker                             52
+  FIGURE 30: Conservation of artifacts                                55
+
+
+
+
+                            ACKNOWLEDGMENTS
+
+
+I wish to thank Harvey S. Teal and George B. Hartness of Columbia, South
+Carolina; M. Mellanay Delham of Charlotte, North Carolina; Harmon Wray
+of Memphis, Tennessee; and Jan B. Eklund of the Smithsonian Museum for
+assistance with the artifact analysis. The original research was funded
+by a grant from the South Carolina Coastal Council. This publication was
+made possible by a grant from the South Carolina Committee for the
+Humanities, whose support is gratefully acknowledged. The Middleton
+Place Foundation, and its Director, Sarah Lytle, provided advice and
+encouragement. The author appreciates the assistance of the staff of the
+Institute of Archeology and Anthropology. Essential to the production of
+this book were Gordon Brown, Photographer; Darby Erd,
+Artist-Illustrator; Kenneth Pinson, Editorial Assistant; Mary Joyce
+Burns, Typist; Kenneth Lewis, Archeologist; and William Marquardt,
+Associate Director.
+
+Artifacts in the photographs are in possession of the Middleton Place
+Foundation, Charleston, South Carolina, and the Institute of Archeology
+and Anthropology, University of South Carolina, Columbia, South
+Carolina.
+
+The cover illustration and drawings on pages 1, 3, 27, 32, 47, 51, 54,
+and 56 are by Darby Erd. Figure 16 is taken from illustrations in Norman
+W. Webber’s _Collecting glass_ (Arco Publishing, New York, 1973) and
+Ruth Webb Lee’s _Victorian glass_ (privately published, Northboro,
+Massachusetts, 1944). The drawing in Figure 24 is reproduced from a 1920
+Armour & Co. sales catalogue made available by Harmon Wray of Memphis,
+Tennessee. The lamps in Figure 27 are drawn from catalogue illustrations
+in _Edwardian shopping: a selection from the Army and Navy Stores
+catalogues, 1898-1913_ (compiled by R. H. Langbridge, David and Charles,
+Newton Abbot, 1975) and _Victorian shopping: a facsimile of the Harrod’s
+Stores 1895 issue of the_ _price list_ (David and Charles, Newton Abbot,
+1972).
+
+The engravings on pages 12, 24, and 39 are reproduced from Jim Harter’s
+_Food and drink, a pictorial archive from nineteenth-century sources_
+(Dover, New York, 1980). That on page 29 is from the 1895 _Encyclopedia
+Britannica_ (volume 10, page 658, The Werner Company, Chicago). The lamp
+on page 49 is from the 1902 edition of the Sears Roebuck catalogue
+(Crown, New York, 1969).
+
+
+
+
+                   A BRIEF HISTORY OF MIDDLETON PLACE
+
+
+    [Illustration: Middleton Place]
+
+The land that now comprises Middleton Place lies in one of the earliest
+areas inhabited by Englishmen in South Carolina. In 1674, just four
+years after the first colonists settled at Charles Town, Lord Proprietor
+Sir Anthony Ashley Cooper granted lands for settlement along the lower
+reaches of the Ashley River. Among these was the site of Middleton
+Place, deeded in 1675 to Jacob Waight. Waight apparently forfeited his
+claim to the tract, and in 1700, it was granted to Richard Godfrey, who
+sold it in 1729 to John Williams, a wealthy landowner and justice of the
+peace. The land passed into Middleton hands in 1741, when John Williams’
+daughter Mary married Henry Middleton, the second son of former
+provincial governor Arthur Middleton.
+
+Henry and his two brothers were the third generation of Middletons in
+South Carolina. Their grandfather, Edward Middleton, had arrived in the
+colony in 1678 as part of the great influx of Barbadian Englishmen who
+made up more than half of Charles Town’s early immigrants. Like many
+other Barbadians, Edward settled along Goose Creek, north of Charleston.
+His plantations there, along with estates in Barbados and England,
+passed to his son Arthur in 1685. Arthur also inherited a prominent
+position in Carolina society, and with it, an active role in the
+political life of the colony. Edward had served as Lords Proprietors’
+deputy and assistant justice in his few years’ stay in Goose Creek, but
+Arthur, who held more than a dozen public offices, was the Middleton who
+established the tradition of political leadership that was to
+distinguish his family for four generations.
+
+Probably the most significant of Arthur’s achievements was his role in
+the overthrow of the Lords Proprietor. The eight British noblemen
+theoretically owned and managed all of the Carolinas, but in later
+years, they adopted policies that their colonists saw as inimical to
+survival in the American wilds. Following the Lords Proprietors’ failure
+to provide military aid during the bloody Yamasee Indian uprising of
+1715-1717, Arthur Middleton led a convention that in 1719 persuaded the
+king to remove the Lords Proprietor. Later, as president of the Ruling
+Council, he served as governor of the province until the arrival of a
+governor appointed by the king.
+
+Arthur’s son Henry inherited a large share of his father’s estates in
+Carolina and Barbados and was reputed to be one of the wealthiest men in
+Carolina. According to one contemporary account, he owned some 20
+plantations and 800 slaves. Nonetheless, after his marriage to Mary
+Williams he moved his residence and base of operations to his wife’s
+Ashley River plantation, which they named Middleton Place. The manor
+house was already standing at that time, but Henry added the two flanker
+buildings (the southernmost of which now serves as the main house), and
+laid out the formal gardens, terraces, and ornamental lakes that made
+Middleton Place one of the most elegant of the lowcountry plantations.
+Rice, introduced into the Carolinas in the late seventeenth century, had
+become by Henry’s time a staple crop of the Ashley River region and was
+becoming the main product of Middleton Place (Fig. 1).
+
+    [Illustration: Figure 1. Locator map of Middleton Place, Dorchester
+    County, South Carolina.]
+
+Like his father, Henry held a number of public offices under the royal
+government, but it was in the rebellion against that government that he
+gained political renown, first as president of the South Carolina
+Provincial Congress and later as a delegate to the First Continental
+Congress in Philadelphia. Only seven of Henry and Mary’s eleven children
+lived to adulthood, but both surviving sons were members of the
+Provincial Congress, and when Henry’s health began to fail in 1776 his
+elder son Arthur replaced him as delegate to the Second Continental
+Congress. At 34 Arthur Middleton was the senior South Carolina delegate
+to sign the Declaration of Independence.
+
+The American Revolution took a heavy toll on South Carolina. Several
+major campaigns were fought in the former colony, and Charleston and the
+surrounding lowcountry were occupied by the British from 1780 to 1782.
+During this time, 63 leading Charlestonians, including Arthur Middleton,
+were imprisoned in British St. Augustine. By 1780, Henry was seriously
+ill, and, like other lowcountry residents, he and his sons suffered
+serious financial losses from the plunder and disruption that
+accompanied the British occupation.
+
+Henry died in 1784 leaving Middleton Place and other plantations to
+Arthur, who in the postwar economic climate soon regained his former
+standard of living. Arthur and his family of nine children had lived at
+Middleton Place for some time before Henry’s demise, and several
+important economic changes took place under Arthur’s direction. In
+Henry’s early years at Middleton Place, rice had been cultivated in
+inland swamps irrigated with water from man-made reservoirs. By the late
+eighteenth century, soil exhaustion had begun to pose a problem, and
+many planters, including the Middletons, changed to tidal rice
+cultivation that involved impounding freshwater swamps along the rivers’
+edges and allowing them to be flooded by the natural action of the river
+tides. Not only did the new soil and nutrients deposited by the
+floodwaters remove the threat of soil exhaustion, but the tidal system
+was more labor-efficient than inland cultivation, resulting in higher
+yield per acre. This new efficiency was compounded by another late
+eighteenth century innovation, the water-powered rice mill, installed at
+Middleton Place about the same time.
+
+Arthur’s eldest son Henry inherited Middleton Place at the age of 17,
+apparently while he was still in school in England. Henry devoted a
+great deal of attention to the gardens planted by his grandfather,
+enlarging them and introducing many new plants, some of them newly
+brought to America by the French botanist André Michaux. From 1801 to
+1830 Henry was continuously in public office, first as a South Carolina
+legislator and governor, then as a member of the United States Congress,
+and from 1820 to 1830 as American ambassador to Russia.
+
+By the time he returned from his service abroad, South Carolinians had
+embarked upon the separatist agitation that would eventually lead to
+their third attempt in 150 years to overthrow a government.
+
+At issue were the 1828 and 1832 “tariffs of abomination,” designed by
+Congress to protect fledgling industries in the northern states.
+However, they were viewed by indignant Carolina planters, dependent on
+direct trade with England, as an assault on their agricultural economy.
+The South Carolina Nullification Convention of 1832 declared the tariff
+null and void on the basis of John C. Calhoun’s doctrine that a state
+had a right to vote to disregard onerous acts of Congress and, if other
+states found its action unacceptable, to secede. As a member of the
+opposing Union Party, Henry Middleton was perhaps the first of his
+family to take an active conservative role in a dispute pitting South
+Carolina against an outside governing body.
+
+This early threat to the Union was deflected with a tariff reduction in
+1833, but the nullification doctrine had laid the ideological groundwork
+on which 11 southern states were to base their secession over the issue
+of slavery 28 years later. Slavery was an economic mainstay of
+agriculture throughout the South, but particularly so in South Carolina,
+where slaves had been imported from Barbados with the very earliest
+settlers at Charles Town and where a plantation system based on
+involuntary servitude had existed since the late seventeenth century. By
+the early 1700s African slaves already made up three-quarters of the
+South Carolina population, and on the eve of the Civil War, South
+Carolina remained the largest slaveholding state in the Union. Colleton
+District, where Middleton Place was located, was nearly 80% black.
+
+This enormous disparity meant that white slaveholders lived in constant
+fear of slave insurrection. They were equally fearful of emancipation,
+which, as abolitionist sentiment grew in the North, many planters came
+to view as an inevitable outcome of northern political dominance. There
+were slaveholders who staunchly opposed disunion, but South Carolina, as
+it had been during the nullification dispute, was a hotbed of
+secessionism. With the 1860 election of Abraham Lincoln, a Charleston
+convention passed an ordinance making South Carolina the first state to
+withdraw from the Union. Henry Middleton had died in 1846 before the
+slavery controversy reached its height, but among the signers of the
+Ordinance of Secession were his sons John Izard Middleton of Georgetown,
+and Williams Middleton of Middleton Place.
+
+The war that followed caused more devastation to the plantation economy
+than emancipation, for in defeat the planters lost most of their
+financial assets and their voice in local government. In areas that had
+witnessed military action, they often saw devastation of their homes and
+property. Middleton Place, plundered and burned by invading troops in
+1865, was no exception. Williams and his family fled to Charleston where
+they lived while renting the plantation grounds to a “Yankee captain.”
+In 1867 Williams borrowed money from a sister in Philadelphia and began
+the task of restoring the burnt-out southern flanker building to serve
+as a family residence. In 1871, before repairs were complete, the
+Middletons and their two children were again living at Middleton Place
+in the shadow of the ruined mansion that had housed five generations of
+their family.
+
+Restoration of the plantation’s agricultural operations, however, proved
+more difficult. The tidal rice fields, which required constant
+maintenance, had been neglected, and the loss of the more than 100
+slaves who had worked the plantation grounds and rice fields left
+Williams without the necessary labor for large-scale cultivation.
+Although vastly diminished quantities of rice continued to be harvested
+elsewhere in the lowcountry, Middleton Place apparently never again
+produced a successful rice crop. By 1890 rice from Louisiana, where flat
+upland fields permitted mechanized cultivation impossible in the South
+Carolina marshes, had begun to drive Carolina rice off the market. Today
+no rice at all is grown in South Carolina.
+
+Two new commodities that gained importance in the land-poor lowcountry
+economy were phosphates, of which postbellum South Carolina was the
+nation’s leading supplier, and timber, an important product in the
+Southeast. Williams turned his hand to exploitation of these natural
+resources, and by 1878, Middleton Place boasted both phosphate mines and
+a sawmill. Although he and his heirs continued to lease the plantation
+timber and mineral rights until the early twentieth century, by 1880 the
+aging Williams had left Middleton Place, taking up residence in
+Greenville, South Carolina. After Williams died in 1882, his wife Susan
+made regular visits to the plantation. But following her death in 1900,
+Middleton Place lay abandoned, except for periodic visits, for over 20
+years. Williams and Susan’s son Henry, who had left South Carolina in
+the 1870s to attend Cambridge University, was living in England, and
+their daughter Elizabeth had married and settled in Greenville.
+
+The plantation was inherited by a cousin, J. J. Pringle Smith, who, in
+1925, moved his family into the southern flanker house and began the
+slow job of restoring the Middleton Place grounds and gardens. Pringle
+Smith built the present stableyard complex on the site of older
+outbuildings, installed an electrical generator in the former privy
+building, and opened the gardens to the public. In 1970 Middleton Place
+became a Registered National Historic Landmark under the management of
+the Smiths’ grandson, Charles Duell. In 1975, with the creation of the
+Middleton Place Foundation, the south flanker containing many of the
+family’s original furnishings was also opened to the public.
+
+
+
+
+                     ARCHEOLOGY AT MIDDLETON PLACE
+
+
+    [Illustration: uncaptioned]
+
+Modern historical archeology, like archeology in general, is based on
+two main premises. First, where man has lived for any length of time, he
+has left behind artifacts—bits of food, broken pottery, tools, and
+ornaments—that tell us something of his way of life. Second, human
+behavior is, to a certain extent, patterned and predictable, and similar
+artifacts will be found on similar sites. Thus, even if two household
+sites are separated by hundreds of years of technological innovation,
+they may yield utensils used for roughly the same purposes. If two
+contemporary sites produce artifacts of the same style and workmanship,
+then their inhabitants shared at least some aspects of a single culture,
+and variations between the sites can provide valuable clues to
+adaptations of that culture to different circumstances.
+
+The distinction between prehistoric and historical archeology is based
+not on differences in technology but on the presence or absence of
+written records. While prehistoric archeologists reconstruct ancient
+cultures primarily from artifactual evidence, historical archeology
+employs both documents and material remains to study literate societies
+and the pre-literate populations whom they influenced. In much of Europe
+and Asia, the historic period begins centuries before Christ, but in
+North America, historical archeology is concerned with the period of
+recorded European exploration and occupation extending from the
+sixteenth century to the present.
+
+From these four centuries we have innumerable written records covering a
+vast array of subjects. But although these records contain a wealth of
+information, they cannot always be trusted to be either thorough or
+accurate. In addition, historians are often most interested in aspects
+of daily life—such as health, diet, and the living conditions of the
+unlettered poor—that are frequently omitted altogether from written
+records. By examining the record of activities that people have left in
+the soil, archeology can provide written history with a comparatively
+unbiased account of the economic conditions underlying historical
+change.
+
+Probably the most obvious indicators of past living conditions are
+buildings, around which most human activities are centered. On most
+historic sites these include not only residences but also a variety of
+outbuildings such as privies, barns, and work buildings that are crucial
+to understanding the site as a whole. This is especially true of such
+complex institutions as plantations, where hundreds of people may have
+lived and worked over an area of many acres. Since many of these
+buildings have long since disappeared, the first task of the excavator
+is to find them by tracing the concentrations of debris that,
+fortunately for archeologists, our ancestors scattered freely around
+their dwellings and workplaces.
+
+The Middleton Place privy is a modest one-story building half hidden in
+live oaks behind the Middleton House museum. It has outlasted many of
+its more imposing contemporaries to become one of the oldest standing
+structures at Middleton Place. Built in the late eighteenth or early
+nineteenth century, the privy was one of the few plantation buildings to
+escape destruction by Sherman’s troops in 1865. In its long lifetime it
+has served as an outdoor latrine, a generator house, and a storage
+building. Now, newly equipped with running water and flush toilets, it
+is the only antebellum building at Middleton Place still serving the
+purpose for which it was constructed.
+
+An outdoor privy may seem an unlikely place to conduct an archeological
+excavation. Much eighteenth and nineteenth century trash was simply
+tossed out the back door, but the backyard privy, ready made for waste
+disposal and usually handily located a few dozen feet from the house,
+also received its share of household disposables. As a privy pit neared
+abandonment, the top layers were often stuffed with broken objects
+before it was sealed and a new hole dug.
+
+The privy is set solidly atop a rectangular brick-lined pit, which house
+servants kept open and functioning for more than 100 years with a system
+of “honey buckets.” When the privy was finally abandoned in the 1920s,
+the entire pit, not just the top few inches, was packed with broken or
+unusable household goods.
+
+The privy pit was sealed by J. J. Pringle Smith, who laid a concrete
+floor in the privy building and converted it into a shed for the
+plantation’s first electric generator. With the subsequent arrival of
+outside electrical power, the generator too was abandoned, and the privy
+stood undisturbed for the next 40 years. In 1978 workmen remodeling the
+building into a modern restroom broke through the concrete floor to the
+artifact-laden pit below. The artifacts were excavated and analyzed by
+archeologists from the University of South Carolina’s Institute of
+Archeology and Anthropology, and are now on display in the Middleton
+Place Spring House Museum.
+
+Privy pits, being relatively shallow, normally contain objects
+accumulated and discarded within a very few years. The Middleton privy,
+only three feet deep, was expected to be no exception. Once the
+artifacts had been cleaned and restored, however, it became apparent
+that this was no short-term kitchen deposit, but a diverse assemblage of
+objects spanning more than 100 years of the plantation’s history.
+
+A sealed archeological deposit can date no earlier than its most recent
+artifact, and a handful of twentieth century utility bottles confirmed
+that this chronological hodgepodge had been thrown into the privy pit
+shortly after the arrival of the Pringle Smith family in 1925. The
+scarcity of items from the Smiths’ period of residence, however,
+suggested that the family had filled the privy not with their own trash
+but with objects accumulated by the Middletons in the preceding century.
+The artifacts could not have collected in the house before 1871, when
+the Middletons moved back to their war-ravaged estate, or after 1900,
+when Susan Middleton’s death ended the plantation’s role as a regular
+residence. The artifacts left in the house spanned Susan and her
+husband’s entire lifetimes, from the costly dinnerwares of the wealthy
+planter to the plain stone china of his widow. As much as any exhibit at
+Middleton Place, then, the artifacts on display in the Spring House
+Museum bear testimony to the cycle of wealth and poverty, prosperity and
+decay, that characterized the nineteenth century Middletons and their
+plantation.
+
+
+
+
+                         POTTERY AND PORCELAIN
+
+
+    [Illustration: uncaptioned]
+
+The Industrial Revolution introduced an era of mass production,
+technological efficiency, and mass consumption. One of its minor
+miracles was the perfection of a hard-boiled white ceramic that was
+within the financial reach of most of the population. Though hardly
+striking to the modern eye, the white ironstone plates pictured below
+(Fig. 2) are the result of years of experimentation by British and other
+European potters. In durability, purity of color, and
+cost-effectiveness, the everyday ironstones and granitewares of the late
+nineteenth century represent a triumph of western ceramic technology
+that has been little improved upon since the earlier part of that
+century. (See Appendix 1 for a complete listing and illustrations of
+ceramic manufacturers’ marks.)
+
+The impetus for this technological marvel goes back to the global
+expansionism of Europe’s seafaring nations in the sixteenth and
+seventeenth centuries. Among the exotica brought back by early traders
+was Chinese porcelain, an impermeable white ceramic ware unlike anything
+produced in Europe. As trade with the Orient grew, so did importation of
+Chinese porcelain. By the eighteenth century, Chinese potters were
+regularly turning out blue-and-white “export porcelain” (Fig. 3) made
+specifically for the European market. East India Company ships were
+transporting it to England as “flooring” to protect perishable cargoes
+of tea.
+
+    [Illustration: Figure 2. British-made white ironstone or granite
+    china, 1891-1900. All four plates are marked “MADE IN ENGLAND,” a
+    convention adopted in 1891 to comply with American import
+    regulations.]
+
+Much of this porcelain found its way to the American colonies. In the
+early colonial period, Chinese porcelain was a relatively rare and
+prestigious ware associated with the upper-class custom of afternoon
+tea. By the time of the American Revolution, both tea-drinking and
+porcelain had spread to the lower classes. When American merchants
+opened their own direct trade with China in the 1780s, they brought back
+large quantities of porcelain along with the more lucrative teas and
+silks. By the 1820s Chinese blue-and-white had become an ordinary
+household fixture and, with a concomitant decline in quality of
+production, began to lose favor with the American buyer. Very little was
+imported after the early 1830s.
+
+    [Illustration: Figure 3. Chinese export porcelain. These fragments
+    are all from plates or serving dishes, probably imported before
+    1830. All are hand-painted with blue underglaze decoration. The
+    piece on the upper left retains traces of additional decoration,
+    including gilding, applied over the glaze.]
+
+    [Illustration: Figure 4. French Bourbon Sprig or Cornflower
+    porcelain, a pattern popular before the French Revolution. Other
+    pieces of this pattern are on display in the Middleton House dining
+    room.]
+
+It would be difficult to overestimate the influence of Oriental
+porcelain on the European ceramic industry. Europeans greatly admired
+the hardness, whiteness, and thinness of the Chinese imports, and many
+of the most important developments in eighteenth and nineteenth century
+ceramic manufacture resulted from a conscious effort to imitate these
+qualities. Soft paste porcelain, made by adding glass to the clay body,
+was an early attempt to reproduce the porcelain paste itself. The
+Germans discovered the secret of true hard paste porcelain around 1710
+and began producing it at Meissen three years later, followed by the
+Austrians at Vienna in 1718 and the French at Sèvres in 1768. Early
+European porcelains imitated the Oriental in design as well as paste,
+but after about mid-century, chinoiseries gave way to flowers and other
+European designs executed in a variety of colors. Through the end of the
+century, European porcelain remained an art form available only to the
+well-to-do. Figure 4 shows a French porcelain tea plate hand-painted in
+the “Bourbon Sprig” or “Cornflower” pattern of scattered flowers popular
+during the reign of Louis XVI. Probably produced in Paris in the
+eighteenth or early nineteenth century, this plate was part of a large
+set of Bourbon Sprig china originally brought from Europe by a member of
+the Middleton family after 1820.
+
+    [Illustration: Figure 5. English porcelain platter, decorated over
+    the glaze with the polychrome orientalizing designs favored by early
+    19th century British ceramic painters. This dish was also probably
+    part of a large set, fragments of which have been found elsewhere on
+    the Middleton Place grounds.]
+
+Little hard paste porcelain was produced in England, where bone china, a
+somewhat softer porcelain with calcined ox bone added to the paste,
+became a favorite material for expensive dinnerwares. Oriental influence
+on British ceramics was more immediately felt in the British decorative
+style, which through the nineteenth century continued to borrow heavily
+from the Chinese and Japanese. Figure 5 illustrates an English porcelain
+platter decorated in the colorful pseudo-Oriental motif typical of early
+nineteenth century dinner services. These services, often made in stone
+china or ironstone, sometimes included as many as two hundred pieces to
+accommodate the lavish dinner parties that were the fashionable
+entertainment of the day.
+
+    [Illustration: Figure 6. Creamware sauce tureen, manufactured by the
+    Josiah Wedgwood factory. One of the original 1780s Wedgwood designs,
+    tureens similar to this one are still produced by the Wedgwood
+    pottery in Barlaston, Staffordshire. Manufacturer’s markings
+    indicate that this piece was manufactured before 1860.]
+
+A more significant effect of Oriental porcelain on British ceramics was
+the revolution it inspired in the production of everyday earthenware.
+From the early eighteenth century, British potters had sought to develop
+a smooth white-bodied earthenware that could be made from local clays to
+compete with the imported blue-and-white. The first real breakthrough in
+this endeavor came in the 1760s, when Josiah Wedgwood, the giant of
+British ceramic history, began production of a thinly potted pale yellow
+pottery known as creamware or queensware (Fig. 6). Dozens of British
+factories quickly took up manufacture of creamware, and it became a
+staple dinnerware throughout Europe and America. It remained a popular
+British and American tableware until the 1820s, after which it
+degenerated into a common utilitarian crockery. Known as “C.C. ware,”
+creamware finished out the nineteenth century as the cheapest of the
+heavy utility wares, used chiefly for such items as mixing bowls and
+chamber pots.
+
+On the heels of creamware came pearlware, another Wedgwood invention
+that consisted of a slightly whiter-bodied ceramic, which, with the
+addition of a clear blue-tinted glaze, came close to approximating the
+pearly bluish white of Oriental porcelain. The development of pearlware,
+and the even whiter earthenwares that followed, ushered in the great
+British period of blue transfer-printing that lasted from the 1780s
+through the 1840s. The art of printing glazed ceramics with designs
+transferred from engraved copper plates had been known since the 1750s,
+but the more durable underglaze process was developed only in the
+1770s—and then only in cobalt blue, the one color that consistently
+remained unblurred through the high firing temperatures required for
+glazing. Blue underglaze printing had been tried to no one’s
+satisfaction on the yellow background of creamware, but pearlware, with
+its faint bluish tint, was the first earthenware that was both hard
+enough and of a suitable color for the new technique. Despite the
+development of nearly pure white earthenwares in the early 1800s,
+British potters continued throughout the nineteenth century to add the
+blue-tinted pearlware glaze to earthenwares of many different
+compositions.
+
+Early transfer patterns imitated the Chinese and were engraved into the
+copper plates in a series of deep lines, but a technique combining lines
+and stippling, which allowed for greater detail and shading, was
+introduced about 1810. With this and other developments, Oriental
+designs gave way to pastoral and architectural scenes—English, Alpine,
+Italianate, and American, among many others—usually surrounded by
+borders of English flowers (Fig. 7). In later years, many of these
+scenes were printed in various colors made possible by the introduction
+of new dyes in the late 1820s, but blue remained the most popular color
+through the end of the transfer-printing era in the late 1840s.
+
+    [Illustration: Figure 7. Light blue transfer-printed serving bowl,
+    manufactured by J. & G. Alcock, Staffordshire, 1839-1846. Pastoral
+    scenes like this TYROL pattern were popular from about 1810 through
+    the 1840s.]
+
+    [Illustration: Figure 8. Molded white ironstone chamber pot,
+    probably American made, c. 1860-1900.]
+
+The dinnerware that pre-empted transfer-printed earthenware was plain
+stone china of the sort pictured in Figure 2. Late nineteenth century
+stone china, also known as ironstone, graniteware, and semi-porcelain,
+was not a new ceramic but a variant of the stone chinas and ironstones
+first produced by Josiah Spode and Charles Mason in the first two
+decades of the century. The novelty of the stone chinas sold after 1840
+lay in the new inexpensive methods of mass-producing them, and in their
+hitherto unthinkable absence of painted decoration. Early nineteenth
+century stone chinas had been elaborately decorated with Oriental
+wildlife and transfer-printed patterns, but by mid-century it was almost
+all stark white, with only embossed or molded decoration. After about
+1870, it was often produced with no decoration at all.
+
+Stone china at its best was nearly unbreakable, and thus admirably
+suited to life in the still rough-and-ready American states. Like
+earlier wares, most of the stone china sold in the United States was
+imported from Great Britain. The fledgling American pottery industry did
+not begin producing hard-paste whitewares until after 1860, and
+throughout the nineteenth century American-made ironstone was considered
+inferior to imported china. Much of the early American potter’s energy
+went into the production of common utility items, which, like the
+probably American-made chamberpot in Figure 8, were often unmarked to
+hide their domestic origins.
+
+At the opposite extreme of the decorative scale was English majolica, a
+gaudily painted ware introduced by Minton & Co. at the 1851 “Great
+Exhibition” in London (Fig. 9). Early Minton majolica was intended as an
+imitation of sixteenth century Italian majolica and featured
+hand-painted romantic scenes on an opaque white background. The style
+quickly evolved, however, into a fancifully molded pottery decorated
+with a wide range of colorful semitranslucent glazes. Produced by a
+number of factories after about 1860, majolica was used through the end
+of the century both for inexpensive domestic items and for sometimes
+massive ornamental objects such as jardinieres.
+
+    [Illustration: Figure 9. English majolica, c. 1860-1910. This
+    brightly colored ware was often molded into shapes resembling trees
+    or other plants. The brown-glazed handle is from a pitcher
+    apparently colored with blue, yellow, and brown.]
+
+Manufacture of European porcelain had not ceased during the years
+British earthenware dominated the American ceramic market, but the
+nature of the product had changed considerably. The French porcelain
+industry, in particular, had evolved from a restricted craft patronized
+by royalty to a number of independently owned factories turning out
+standardized dinnerwares for the public taste. These relatively
+inexpensive wares appealed to Americans as well as Europeans, and French
+porcelains were imported in quantity beginning around 1850. To
+Americans, the most prestigious French porcelain came from Limoges,
+where a number of factories had clustered to take advantage of extensive
+kaolin deposits. Of Limoges porcelain, the most highly regarded was that
+produced by Haviland & Co., a firm founded in 1842 by an American china
+merchant, David Haviland, to produce porcelain, specifically designed
+for the American market (Fig. 10). Cheaper French porcelains, often with
+no manufacturer’s mark, were sturdily and heavily made in an apparent
+attempt to capture the white ironstone dinnerware market.
+
+    [Illustration: Figure 10. Limoges porcelain, c. 1875-1891. The
+    dinner plate at left bears the hallmark of Haviland & Co., an
+    American-run French Company that produced porcelain especially for
+    the American market. Three other undecorated plates, the least
+    expensive kind of porcelain, were also recovered in the privy
+    excavation.]
+
+    [Illustration: Figure 11. Decal-printed Austrian porcelain, probably
+    c. 1900-1918. Decal-printing, or decalcomania, was first used on
+    ceramics around the turn of the century and is a common method of
+    decorating china today.]
+
+Despite its popularity, French porcelain did not succeed in replacing
+white ironstone in the American cupboard. That remained for German and
+Austrian porcelain (Fig. 11), an even cheaper ware that began to enter
+the country in quantity around 1875, and in prodigious amounts after the
+turn of the century. Much admired for their thinness and translucency,
+these delicate dinnerwares easily undersold not only ironstone and the
+established French and British porcelains, but the then fashionable
+pressed glass tableware sets as well. Like most porcelains of the
+period, Austrian and German dinner sets were usually decorated with
+small sprays of naturalistic flowers. This design was made easier by the
+late nineteenth century development of decal-printing, or
+“decalcomania,” a process by which multicolored paper patterns are
+transferred directly onto the surface of a glazed ceramic.
+Decal-printing was first used on European ceramics around 1900, and it
+remains a popular ceramic decoration today.
+
+Most of the popular Austrian porcelains were manufactured near Carlsbad
+in Bohemia, which after World War I became a part of modern
+Czechoslovakia. After World War I Czechoslovakia and other European
+countries continued to dominate the American porcelain market. Although
+American-made earthenwares and stone chinas had become a competitive
+force around the beginning of the century, it was not until World War
+II, and the resulting disruption of the European china trade, that
+American porcelain manufacturers were able to end the tradition of
+imported ceramics that began with seventeenth century Chinese porcelain.
+
+
+
+
+                            GLASS TABLEWARE
+
+
+    [Illustration: uncaptioned]
+
+Decorative glass recovered in the privy excavation covered a range of
+styles and manufacturing techniques spanning the entire nineteenth
+century. Most of the glass tableware, however, particularly the heavy
+cut glass, appears to have been manufactured in the antebellum period.
+This indication that the Middletons continued to dine off their pre-war
+finery until they left the plantation may be an indication of the
+family’s reduced financial circumstances after the Civil War. Only a few
+of the more representative glass tableware items are illustrated below.
+
+    [Illustration: Figure 12. Cut glass pitcher with applied crimped
+    handle. Early 19th century, possibly American-made.]
+
+One of the more popular and long-lived methods of decorating glass has
+been wheel-cutting, introduced into England from Germany by the early
+eighteenth century, and used primarily on the soft but brilliant lead
+glass crystal developed in England around 1675. Early nineteenth century
+English cut glass, incised entirely by hand, tended toward restrained
+neoclassical lines, but the introduction of a steam-powered cutting
+wheel in 1810 ushered in an era of deep and extensive cut decoration.
+Much of this English and Irish cut glass was imported into the United
+States, but by the first few decades of the nineteenth century, American
+glasshouses had developed a reputation in the field as well. The cut
+glass pitcher in Figure 12 dates from this period and is similar to
+pitchers produced in Pennsylvania glasshouses in the 1820s. The applied
+hand-tooled handle is of a type seldom used after the 1860s.
+
+    [Illustration: Figure 13. Cut glass decanters. A. Cylindrical
+    flute-cut decanter, a style popular in the 1840s. The mate to this
+    decanter is still among the family possessions in the Middleton
+    Place house. B. Shouldered decanter with shallow fluting around
+    base. This style was introduced before 1830.]
+
+    [Illustration: Figure 14. Stemmed drinking glasses. A. Fluted ale or
+    champagne glass. Cut glass, c. 1810-1840. B. “Almond Thumbprint”
+    pattern wine glass. Pressed glass, post-1850. C. “Mascotte” pattern
+    wine glass. Pressed glass, post-1880.]
+
+    [Illustration: Figure 15. Ale flute and Mascotte wine glass as they
+    would have appeared unbroken.]
+
+By the 1830s cutting in flat vertical slices, or flutes, had come into
+fashion. Heavy straight-sided decanters like the one in Figure 13A were
+well-suited to this decoration and remained popular through the 1840s,
+after which the fashion swung toward lighter long-necked decanters with
+rounded bodies. The decanter on the right with more restrained fluting
+around the base only is probably part of a shouldered decanter of a
+style most common before about 1830. Victorian glasscutters frequently
+reproduced older styles, however, in the thousands of decanters that
+were turned off the wheel before decanters ceased to be an everyday
+tableware around World War I.
+
+In the late 1820s American glassmakers introduced the side-lever glass
+press, a device that could form wide-mouthed glass items by pressing
+them against a mold with a plunger. The glass press allowed mass
+production of decorated tableware at a much lower cost than cutting or
+engraving, and within a few years pressed glass had begun to make
+serious inroads into the cut glass market. Early American pressed glass
+was made in stippled or “lacy” patterns formed by closely-spaced small
+indentations in the mold, but in the late 1840s, smooth patterns similar
+to some cut glass styles had been developed. The invention in 1864 of an
+inexpensive substitute for the costly lead glass crystal further reduced
+the cost of pressed glass manufacture, and by the 1870s, dozens of
+factories were turning out pressed glass table sets in a staggering
+array of patterns. These pattern glass sets remained the most popular
+American glassware until the 1880s when cut glass resurfaced with deeply
+and ornately incised “brilliant” cut glass.
+
+Pressed glass manufacturers responded to the new patterns with pressed
+glass imitations, a single example of which was recovered from the
+Middleton Place privy deposit. Figures 14 and 15 show the transition of
+styles through the nineteenth century. On the far left in both figures
+is a tall ale or champagne glass wheel-cut with the vertical flutes
+fashionable in the first half of the century. Figure 14B shows a small
+wine glass pressed in the “Almond Thumbprint” pattern, an early non-lacy
+pattern introduced in the 1850s or 1860s. The wine glass on the right is
+pressed in the “Mascotte” pattern. This pattern, probably first produced
+in the 1880s, was one of the many late nineteenth century pressed glass
+patterns made to resemble the more fashionable brilliant cut glasswares.
+
+
+
+
+                 GLASS MANUFACTURE IN THE UNITED STATES
+
+
+    [Illustration: uncaptioned]
+
+At the beginning of the nineteenth century, most bottles in the United
+States and England were either free-blown—formed on the end of a
+blowpipe without aid of a mold—or blown into a one-piece “dip mold” that
+formed only the basic body shape. Neither of these processes allowed
+large-scale production of oddly shaped or embossed containers, and since
+even dip-molded bottles were formed by hand above the shoulder, the
+bottles tended to be asymmetrical.
+
+Hinged two-piece molds, capable of shaping the shoulder and neck as well
+as the body of the bottle, had occasionally been used in England as
+early as the 1750s, but they did not become common in the U. S. until
+the second and third decades of the nineteenth century. A three-piece
+mold with a dip body and hinged neck and shoulder parts, developed in
+England shortly after the turn of the century, was popularized by an
+1821 patent taken out by the Henry Ricketts Company of Bristol. These
+two forms, especially the two-piece mold, remained the most common mold
+types throughout the nineteenth century. On early two-piece molds, the
+pieces were hinged in the center of the base, but a more stable mold
+with a separate base part was developed by the late 1850s and was almost
+universally used in the later decades of the century.
+
+On almost all mouth-blown bottles, whether free-blown or blown in a
+complex mold, the lip and upper neck were formed in a separate process
+after the otherwise complete article had been removed from the blowpipe.
+This process, the last step in the formation of the bottle, was known as
+“finishing,” and the completed lip came to be called the “finish.” In
+the early part of the nineteenth century, bottles were finished with
+simple hand tools such as shears, but by 1840, a specialized “lipping
+tool” with a central plug and one or more rotating external arms had
+been introduced. This tool produced a smoother and more uniform finish,
+and remained in use until the industry was fully automated in the
+twentieth century.
+
+While the finish was being formed, most bottles were held by an iron
+pontil rod affixed to the base with molten glass. This process left a
+rough scar on the bottom of the bottle where the pontil had been
+detached. Holding devices which gripped the body of the bottle and
+eliminated the need for empontilling were apparently known in England in
+the 1820s, but did not become common in American glasshouses until the
+1840s or 50s. By the 1870s use of the pontil rod had almost entirely
+ceased.
+
+The most significant American contribution to the early nineteenth
+century glass industry was the development in the 1820s of the
+hand-operated side-lever pressing machine. This device consisted of a
+single- or multi-piece mold into which the glass was pressed by means of
+a plunger. Since the plunging process required wide-mouthed molds,
+pressing was used primarily for glass tableware, although straight-sided
+jars were also pressed in the later part of the century.
+
+In 1864 William Leighton of J. H. Hobbs, Brockunier, & Co. in West
+Virginia perfected a formula for an inexpensive soda-based glass that
+was as crystalline as the heavy lead glass previously used for most
+American-made clear glass items. This new glass revolutionized the
+pressed glass tableware industry, and probably was responsible for the
+flood of clear glass medicinal and household bottles that followed the
+Civil War. Like earlier clear glass, the improved lime glass was tinted
+with manganese oxide to remove its natural green coloring. Clear glass
+items manufactured with manganese tend to turn varying shades of
+lavender when left exposed to the sun. Manganese was imported from
+Germany in the nineteenth century to decolor glass and was no longer
+used after the outbreak of World War I.
+
+In the immediate post-Civil War period, the American glass industry
+expanded rapidly. Molds were improved and worker and furnace
+productivity increased to many times their 1800 level. New bottle shapes
+were introduced, and specialized and embossed bottles proliferated. The
+manufacture of preserve jars became a major industry, and a special
+“blow-back” mold, included in John Mason’s 1858 fruit jar patent, was
+used to form the screw threads for the sealable lids. Standard bottle
+shapes for different products became common, as did uniformly applied
+standard lip forms for different purposes. The standard shapes of the
+bottles from the Middleton Place privy are shown in Figure 16.
+Turnmolding, a long-known method of removing mold marks by rotating the
+unfinished bottle in the mold, became a popular way of manufacturing
+unblemished wine bottles. A popular technique of embossing was
+plate-molding, an operation in which a personalized name plate could be
+inserted into a standard mold for inexpensive lettering of even small
+runs of bottles.
+
+    [Illustration: Figure 16. Bottle shapes from the Middleton Place
+    privy (not to scale). A. Champagne beer. B. Export beer. C. Malt
+    whiskey. D. Jo-Jo flask. E. Union Oval flask. F. Bordeaux wine. G.
+    Hock wine. H. Olive oil. I. American preserve. J. Fluted extract. K.
+    Bromo-Seltzer. L. Poison. M. French square. N. Baltimore oval. O.
+    Philadelphia oval. P. Double Philadelphia oval. Q. Plain oval. R.
+    Panel. S. Ball neck panel. T. Oil panel. U. Round prescription. V.
+    Quinine. W. Morphine. X. Free-blown apothecary’s vial. Y. Round
+    patch box. Z. Ointment. AA. Stoneware ink. BB. Bell mucilage. CC.
+    Cone ink. DD. Cylinder ink.]
+
+The first mechanized production of bottles in the United States was on a
+semiautomatic “press-and-blow” machine patented by Philip Argobast in
+1881 and used by the Enterprise Glass Co. of Pittsburgh to make Vaseline
+jars in 1893. Although the molten glass still had to be gathered and
+dropped into the mold by hand, the Argobast machine could produce
+completely machine-molded wide-mouth jars by pressing the lip and
+blowing the body in two separate operations. Semiautomatic production
+rapidly took over the fruit jar industry, and by the turn of the century
+most fruit jars were made on semiautomatic machines rather than in the
+traditional blow-back molds. Narrow-necked bottles, however, could not
+be manufactured on “press-and-blow” machines because the plunger for the
+pressing operation could not be withdrawn through a narrow opening.
+Although a “blow-and-blow” machine for narrow-necked bottles was
+developed in England in the late 1880s, semiautomatics for small-mouthed
+ware were apparently not introduced in the U.S. until after the
+development of the automatic Owens bottle machine in 1903.
+
+The Owens machine, invented by Michael J. Owens of the Toledo Glass Co.,
+was put into production in 1904. It differed from the semiautomatics in
+that the glass was gathered into the molds by mechanical suction
+process, thus completely eliminating hand labor. Despite a series of
+improvements from 1904 to 1911, the Owens machine was slow to gain
+acceptance, both because of its expense and because of the restrictive
+licensing policies adopted by the Toledo Glass Co. In 1905 most bottle
+production other than wide-necked jars was still by hand. Semiautomatics
+came into increasing use, however, and a number of improvements made
+them a serious threat to the Owens machine. After about 1914, there was
+a proliferation of patents for automatic feeding devices that could
+cheaply convert the more modern semiautomatics into fully automatic
+machines. Use of feeder-fed semiautomatics, as well as the Owens
+automatic machines, reduced hand bottle production to 50% of the
+country’s output by 1917, and to less than 10% by 1925. More efficient
+feeder machines slowly replaced the Owens-type suction machines and are
+the type in general use today.
+
+
+
+
+                            MEDICINE BOTTLES
+
+
+As glass manufacturing expanded after the Civil War, so did the
+pharmaceutical industry. Pharmacology became a more exact science than
+it ever had been, and its practitioners dispensed their compound
+medicines in glass bottles that for the first time were available in
+precisely graduated sizes and a variety of shapes often tailored to suit
+specific products. Early post-war bottles were usually made in the
+aquamarine of “green” glass that had become traditional for
+apothecaries’ wares, but use of clear lime glass spread until by the end
+of the century most pharmacy bottles, like most of those from the
+Middleton Place privy, were made of clear glass.
+
+    [Illustration: Figure 17. Pharmacy bottles. A. French square shape,
+    c. 1860s-1920s. B. Ball neck panel, c. 1860s-1920s. C. Philadelphia
+    oval shape, c. 1867-1903. Embossed C. F. PANKNIN APOTHECARY
+    CHARLESTON, S. C. D. Blue Whitall Tatum poison bottle, c. 1872-1920.
+    E. Wide-mouthed prescription bottle, possibly for morphine, c.
+    1860s-1920s.]
+
+One of the first of the new shapes was the “French square,” a tall
+bottle with beveled corners introduced in the early 1860s (Fig. 17). The
+French square was followed by more elaborate rectangular, round, and
+oval shapes, many of them adapted with one or more flat sides to
+accommodate the paper labels or plate-molded lettering with which
+pharmacists usually marked their wares. The “Philadelphia oval” shown in
+Figure 17C, plate-molded with the name of an 1867-1902 Charleston
+pharmacy, was a favorite shape.
+
+Despite such advances as Louis Pasteur’s bacteriological discoveries,
+ideas of medical treatment in the nineteenth century remained primitive
+by modern standards. Without many of the vaccines and antibiotics now
+available, people dosed themselves with a wide range of substances which
+most twentieth century invalids would hold in dim regard. For instance,
+pharmacists distributed morphine in small bottles such as that shown in
+Figure 17E. Vegetable extracts that would not now be in anybody’s
+pharmacopoeia were often sold in panel bottles (Fig. 17B).
+
+One of the few restrictions placed on the more dangerous medicaments was
+packaging. In 1872 the American Medical Association, concerned over
+accidental poisoning, issued a recommendation that potentially harmful
+substances be bottled in distinctively colored containers that were also
+recognizable by touch. One result of this directive was blue quilted
+poison bottles (Fig. 17D). A specialty of Whitall, Tatum & Co., a major
+manufacturer of pharmaceutical wares, these bottles were manufactured
+until about 1920. Other companies continued to produce poison bottles
+until the 1930s, when it was decided that the bright colors and fanciful
+shapes were more an attraction than a deterrent to children exploring
+the medicine cabinet.
+
+    [Illustration: Figure 18. Patent medicine bottles. A. Maltine
+    bottle, double Philadelphia shape. Embossed THE MALTINE MF’G CO.
+    CHEMISTS NEW YORK, a company name used from 1875 to 1898. B.
+    Bromo-Caffeine bottle, c. 1881-1920s. Embossed KEASBEY & MATTISON
+    CO. AMBLER, PA. C. Horsfords Acid Phosphate bottle, eight-sided.
+    Embossed RUMFORD CHEMICAL WORKS and on base, PATENTED MARCH 10,
+    1868, c. 1868-1890.]
+
+A better-known but less savory branch of nineteenth century medicine was
+the patent medicine industry, which exploded into notoriety with its
+extravagant use of the new late nineteenth century advertising
+techniques. While most patent remedies were alcohol- or narcotic-based
+frauds, the term patent medicine meant simply any medicine sold without
+a prescription and included a number of legitimate and effective
+over-the-counter remedies. The 1906 Pure Food and Drug Act and
+subsequent acts of Congress were intended to control dangerous
+substances and put an end to spurious advertising claims, and resulted
+in the alteration or removal from the market of many patent medicines.
+Others, such as Bromo-Seltzer, survived the legislation and continued to
+be sold for years.
+
+Most patent medicines were in fact not patented, for that would have
+meant revealing the formula to competitors and consumers alike.
+Nevertheless, the nature of many of the more potent over-the-counter
+remedies was not entirely unknown. Hostetter’s Bitters, for example, was
+regulated by the South Carolina Dispensary along with whiskey and beer.
+
+Only three patent medicine bottles were recovered from the Middleton
+Place privy deposit, and all appear to have been rather tame digestive
+remedies of the sort that might be sold today. The amber bottle on the
+left (Fig. 18A) contained Maltine, probably a digestive and nutritional
+supplement rather than a cure. The blue bottle (Fig. 18B), the same
+shape that was later used for Bromo-Seltzer, probably contained
+Bromo-Caffeine, an antacid and laxative whose main ingredient was
+magnesia. Bromo-Caffeine was the principal product of the Keasbey &
+Mattison Co., which operated in Philadelphia from 1873 to 1882, and in
+Ambler, Pennsylvania, from 1882 to 1962. The blue-green bottle (Fig.
+18E) contained Horsford’s Acid Phosphate of Lime, a phosphate-based
+preparation sold by the Rumford Chemical Works of Providence, Rhode
+Island, from 1868 until at least the turn of the century. On later
+bottles, however, the company name reads from top to bottom rather than
+from bottom to top.
+
+The predecessor to these sturdy containers was a thin-walled cylindrical
+bottle used by the apothecaries and pharmacists of the eighteenth and
+early nineteenth centuries (Fig. 19). All free-blown or dip-molded,
+these bottles were used as late as the 1850s, and because of the Civil
+War, perhaps even later in some parts of the South. The two bottle bases
+at right are turned up to show the blow-pipe pontil scar made by holding
+the bottle with a blow-pipe while its neck and lip were formed. The long
+neck on the right is probably not from a cylindrical bottle but from a
+globular flask that was used in larger sizes for wine and other
+beverages, and in smaller sizes for medicines and essences. The style of
+its collar dates this bottle to after about 1820.
+
+    [Illustration: Figure 19. Apothecary’s vials, 18th or early 19th
+    century. The neck and base fragments are not all from the same
+    bottles.]
+
+    [Illustration: Base fragments.]
+
+
+
+
+                        WINE AND SPIRITS BOTTLES
+
+
+    [Illustration: uncaptioned]
+
+Perhaps the oldest use for glass bottles has been the storage and
+transport of alcohol. Some of the oldest bottles from the Middleton
+Place privy are wine and spirits bottles. Bottles made in the same dark
+green glass as the three pictured below left were used by the earliest
+colonists for various wines and spirits, and, although the bottle shapes
+have varied over the centuries, the tradition continues in the green
+wine bottles of the present day.
+
+With the improvement of glassmaking techniques in the nineteenth
+century, alcohol bottles became more diverse and specialized. Although a
+simple cylindrical bottle (Fig. 20B) remained a standard for various
+types of spirits, flasks, like those later used by the South Carolina
+Dispensary (Fig. 22B and C), became more and more common for whiskey.
+Beer bottles developed a distinctive shape (Fig. 21), and different
+shapes evolved for different types of wines. Figure 20A is a Bordeaux
+wine bottle, used since the early nineteenth century for the sauternes
+and clarets of the French Bordeaux district. The amber miniature shown
+in Figure 20D is a two-ounce sample bottle of the shape normally used
+for German Rhine wines. By the beginning of the twentieth century, most
+types of alcohol bottles could be purchased in miniature sizes for use
+in advertising and promotion.
+
+    [Illustration: Figure 20. Wine and spirits bottles. A. Turn-molded,
+    probably c. 1870s. B. Three-piece mold, c. 1850-1880. C. Three-piece
+    mold, sand pontil, c. 1820-1880. D. Rhine wine sample bottle, c.
+    1870s-1920s.]
+
+
+
+
+                              BEER BOTTLES
+
+
+The three late nineteenth century bottles shown below represent one of
+the oldest pastimes in America. Until the late nineteenth century,
+however, most American beers were locally produced ales, stouts, and
+porters that were not bottled but sold in kegs to taverns. Modern lager
+beer was first introduced by German immigrants in the 1840s, but it was
+not until the 1870s that the expanding railway system, together with the
+food preservation techniques developed by Louis Pasteur in 1870, made it
+feasible to brew and bottle lager beer for a nationwide market.
+
+    [Illustration: Figure 21. Beer bottles. A. Pint champagne beer,
+    Lightning stopper, c. 1892-1895. Embossed in plate mold THE PALMETTO
+    BREWING CO. CHARLESTON S. C.; on back THIS BOTTLE NOT TO BE SOLD. B
+    and C. Export beer bottles, a type used after the 1870s. The tooled
+    crown finish dates bottle B between about 1892 and 1925.]
+
+Lager beer was less alcoholic but more effervescent than earlier beers.
+Increased bottling of lager and carbonated soft drinks spurred the
+search for new bottle seals capable of withstanding more pressure than
+the traditional cork, which was subject to leakage and had to be tied
+down to prevent its popping out altogether. Two of the most successful
+of the dozens of stoppers patented in the decades following 1870 were
+Henry Putnam’s levered 1882 Lightning stopper (Fig. 21A), and William
+Painter’s 1892 crown cap (Fig. 21B), the closure still used on most beer
+bottles.
+
+With these and other developments, production of bottled “export” lager
+increased rapidly through the 1880s and 1890s. Keeping pace with the
+growth of the beer industry, however, was the group that was to prove
+its undoing: the American temperance movement. The temperance movement
+became an organized lobbying force with the 1893 founding of the
+Anti-Saloon League, and thereafter exerted increasing pressure on
+Congress and the state legislatures. “Dry” agitation in South Carolina
+led to the implementation from 1893 to 1907 of a statewide dispensary
+system to control distribution of beer, wine, and spirits; by 1916,
+South Carolina and 22 other states had prohibited all sale of
+non-medicinal alcohol. National wartime legislation banned the
+manufacture of distilled spirits in 1917 and beer and wine in 1918. The
+Volstead Act of 1919 extended this ban until the eighteenth amendment
+forbidding the production or sale of any beverage with more than .5%
+alcohol could take effect in January 1920.
+
+Prohibition completely changed the face of the American brewing industry
+and almost completely destroyed the tradition of the small local brewer.
+Many brewers tried to survive by selling soft drinks and “near beer,” a
+lager with less than .5% alcohol. “Near beer,” however, could not stand
+up to the competition of home brewers and bootleggers, and most
+breweries either turned to the manufacture of other products or closed
+down altogether. Two months after the sale of wine and beer was again
+permitted in April, 1933, only 31 breweries had reopened. In 1940, seven
+years after the lifting of all national restrictions on alcohol, beer
+production finally reached its pre-Prohibition level, but the number of
+breweries in operation was less than half the number in 1910.
+
+
+
+
+                   SOUTH CAROLINA DISPENSARY BOTTLES
+
+
+The South Carolina Dispensary system, in operation from 1893 to 1907,
+was a nearly unique and completely unsuccessful attempt to control
+alcohol abuse by placing a state’s entire retail liquor trade into the
+hands of its government. Touted by its sponsor, Governor “Pitchfork Ben”
+Tillman, as a means of encouraging temperance, guaranteeing purity of
+product, and returning alcohol revenues to the citizens, the dispensary
+was born as an eleventh hour compromise between pro- and
+anti-Prohibition forces in the state legislature. The measure as enacted
+satisfied neither side, and the dispensary remained a volatile issue in
+state politics until its repeal 14 years later.
+
+The system functioned by buying up wholesale spirits from local and
+out-of-state manufacturers, repackaging or relabeling them at a Columbia
+distribution center, and retailing them to the public through locally
+operated dispensaries. Beer, which was never bottled by the dispensary,
+was sold privately under special license, and alcohol of any sort could
+be brought into the state for individual consumption. In the beginning,
+all liquors were sold in special dispensary bottles, but by the turn of
+the century, the dispensary was handling hundreds of products, many of
+them pre-packaged national brands.
+
+Litigation and often violent public resistance (an 1894 “whiskey
+rebellion” left three dead) plagued the system in its early years. By
+1905 the internal corruption had become so pervasive that a legislative
+investigating committee recommended closing the system as unmanageable.
+Despite the now-handsome profit that it was returning to the state
+treasury, the South Carolina dispensary was abolished by the
+Carey-Cothran Act of the state legislature in 1907.
+
+South Carolina Dispensary bottles came in three basic shapes: Union
+flasks, Jo-Jo flasks, and cylindrical bottles and jugs. Bottles made
+before 1899 were embossed with palmetto trees (Fig. 22A and C), and
+those made after 1899, when public disapproval forced the removal of the
+state symbol from liquor bottles, were embossed with an intertwined SCD
+monogram. Bottles were manufactured for the dispensary by over 20
+different glass factories, but after 1902 all but one brief contract
+went to the Carolina Glass Company of Columbia.
+
+    [Illustration: Figure 22. South Carolina Dispensary bottles. A.
+    Cylindrical palmetto bottle, 1893-1899. B. Monogrammed Jo-Jo flask
+    with embossed CFLG Co basemark, 1899-1902. C. Palmetto Jo-Jo flask,
+    1893-1899.]
+
+
+
+
+                            FOOD CONTAINERS
+
+
+Although olive oil, pickles, and other foods that do not require
+sterilization have been packed in glass and ceramic containers for
+centuries, the preserving of hot foods in airtight glass or metal
+containers is a comparatively recent development. Housewives in the
+eighteenth century knew how to preserve fruits by boiling them in glass
+jars that were subsequently corked and sealed with wax, glue, or pitch,
+but the idea of canning as we know it was popularized by Nicholas
+Appert, a French confectioner who in 1809 won a prize from Napoleon for
+his method of keeping food fresh for soldiers in the field. Appert
+succeeded in preserving over 50 kinds of food, including meats and
+vegetables, and published an essay detailing his method of boiling food
+in a wide-mouthed jar and sealing it with a firmly driven cork. The
+process was quickly copied in England and America, where seafood, fruit,
+and pickles were first packed for wholesale in New York and Boston about
+1820.
+
+A major problem with Appert’s method of preserving in glass was the
+irregular finish of hand-made bottles, which often prevented the cork
+stopper from forming an absolutely airtight seal. For commercial
+packers, an early and lasting solution was the tin-plated canister,
+patented in England in 1810 and in the United States in 1825. An
+inexpensive and effective closure for glass containers had to await John
+Mason’s 1858 patent of the threaded jar seal, which consisted of a
+molded screw thread that allowed the cap to seal on the shoulder rather
+than the uneven lip of the jar. Home canners still use a similar
+screw-top jar today.
+
+Many Americans, both civilian and military, had their first taste of
+commercially canned foods during the Civil War. Increasing varieties of
+meats and vegetables were packed in tin cans in the late nineteenth
+century, but glass bottles remained—and still remain—chiefly the package
+of condiments, sauces, and other foods that require a reclosable cap.
+
+These limited uses can nonetheless result in a large number of empty
+containers. Food bottles are usually one of the most numerous items
+found in a household trash heap. At Middleton Place, only four of a
+total of seventy-seven bottles were food containers, and all had
+originally held the preserves, flavorings, and oils that are usually
+packaged in glass. Figure 23A shows a “One-pound American preserve,” a
+jar sold at the turn of the century by at least one glass company, and
+Figure 23B is a typical late nineteenth/early twentieth century olive
+oil bottle. Figure 24 shows both the excavated example and a 1920
+catalogue illustration of a white pressed glass container for Armour’s
+Beef Extract, a by-product of the packing business produced by Armour &
+Co. beginning in 1885.
+
+    [Illustration: Figure 23. Preserve jar and olive oil bottle, c.
+    1860s-1920s.]
+
+    [Illustration: Figure 24. Armour Beef Extract jar, c. 1900-1920s.
+    Armour & Co. began producing beef extract in 1885, but this glass
+    container was not used until around the turn of the century.]
+
+
+
+
+                                                    None Genuine without
+
+                            4 OZ. NET WEIGHT
+
+                                Armour’s
+                            Extract ^of Beef
+
+                        MANUFACTURED & PACKED BY
+                              ARMOUR & CO,
+                            Chicago. U.S.A.
+
+
+
+
+                        BOTTLES MADE AFTER 1900
+
+
+This final group of bottles and jars have nothing in common except their
+date. The two clear glass bottles at left are standard desktop ink
+bottles made after the 1904 introduction of the Owens bottle machine and
+before screw top inks replaced the corked variety around 1930 (Fig. 25).
+The conical ink in the center was one of the earliest shapes for
+desk-top ink bottles, introduced when ink was first bottled in small
+individual containers in the 1840s. The contents of the ointment jar at
+right, made after 1916, are unknown. Patent records indicate that the
+May 15, 1916, date was neither a trademark registration nor a patent
+issue. It may be a false patent date, put on the bottle to lend the
+contents an air of legitimacy.
+
+Although other artifacts, such as the Austrian porcelain in Figure 11
+and the beef extract jar in Figure 24, may have been manufactured in the
+twentieth century, these three containers were the only items in the
+privy pit that were definitely made after Susan Middleton’s 1900
+abandonment of the plantation. As such, they were the only evidence
+archeologists had that these nineteenth century objects were probably
+deposited in the twentieth century. All three are items likely to have
+been in use at the time of the Smith family’s 1925 move to Middleton
+Place, and they were probably discarded at that time.
+
+    [Illustration: Figure 25. Twentieth century bottles. A. Cylinder ink
+    bottle, machine-made, c. 1904-1930. B. Cone ink, machine-made, c.
+    1904-1930. Embossed on base, CARTER’s MADE IN USA. Carter’s Ink
+    Company began bottling ink in Massachusetts in 1858. C. Screw top
+    ointment pot, white pressed glass. Embossed on base, AUBREY SISTERS
+    MAY 15, 1916.]
+
+
+
+
+                               LAMP GLASS
+
+
+    [Illustration: uncaptioned]
+
+In 1859, drillers in Pennsylvania brought in the nation’s first
+producing oil well, an event that was to alter radically the lives of
+generations of Americans. The first revolution achieved by this
+versatile new fuel was not in mechanical power, but in lighting. A
+working oil field made possible the manufacture of kerosene, a promising
+coal and petroleum-based illuminant that had been patented in New York
+in 1854 but had not been put into production because of the scarcity of
+one of its principal ingredients. Kerosene burned more brightly,
+steadily, and efficiently than almost any known fuel except gas, which
+suffered from the twin disadvantages of requiring immovable fixtures in
+the wall or ceiling, and of being generally unavailable outside large
+urban areas. The abundance of petroleum from the Pennsylvania fields
+made kerosene one of the cheapest fuels available, and by the mid-1860s,
+its use had far outstripped that of gas lighting. In many rural areas,
+it remained the only practical form of household lighting until
+electrification of these areas in the 1930s.
+
+    [Illustration: Figure 26. Student lamp chimney. This glass was used
+    in reading lamps like those illustrated in Figure 27. The
+    kerosene-fueled student lamp was an 1863 Prussian design that became
+    popular in the United States in the 1870s.]
+
+Early kerosene lamps often resembled the oil lamps of the first half of
+the century, and many were oil lamps converted to kerosene. Among the
+new designs that became popular in the 1870s was the adjustable student
+or reading lamp (Figs. 26 and 27), an 1863 Prussian invention used
+through the early twentieth century. In the 1880s decorated lamp
+chimneys came into fashion. One of the earliest, simplest, and most
+enduring of these styles was the familiar “pearl top” chimney rim,
+patented by the George A. Macbeth Company in 1883 (Fig. 28). Similar
+crimped rims were produced by the Thomas Evans Company, which in 1899
+merged with Macbeth to become, by virtue of a semiautomatic lamp chimney
+machine, the nation’s largest glass chimney manufacturer. Demand for
+glass lamp chimneys was curtailed by the spread of electric power in the
+early twentieth century, and, although it continued in production, the
+lamp chimney industry did not fully mechanize until after the 1920s.
+
+    [Illustration: Figure 27. Kerosene student and piano lamp,
+    reproduced from 1895 and 1907 department store catalogues.]
+
+    [Illustration: Figure 28. “Pearl top” and crimped lamp chimneys. The
+    true pearl top rim on the far left was patented by the George A.
+    Macbeth Co. in 1883. The variations shown on the right became
+    popular about the same time.]
+
+
+
+
+                            LABORATORY GLASS
+
+
+Figure 29 is a laboratory beaker of a type manufactured in the
+nineteenth and early twentieth centuries, probably a relic of William
+and Susan Middleton’s inventor son Henry. It is free-blown in lead
+glass, one of many glass compositions used for American laboratory
+equipment before Corning Glass Works introduced low-expansion Pyrex
+glass in 1915.
+
+    [Illustration: Figure 29. Free-blown laboratory beaker, probably
+    late 19th or early 20th century.]
+
+Henry lived at Middleton Place with his parents until the 1870s, when he
+went to study at Cambridge University under the Scottish physicist James
+Clerk Maxwell. Henry lived in England until his death in 1932.
+
+
+
+
+                              CONCLUSIONS
+
+
+    [Illustration: uncaptioned]
+
+The artifacts from the Middleton Place privy present a unique
+opportunity to observe one aspect of this plantation’s past. This
+collection of ceramics, bottles, and other items constitute the refuse
+discarded by the occupants of Middleton Place following the Civil War.
+It reflects their needs and tastes and represents an unconscious record
+of activities a century ago. Artifacts in the collection include items
+from an earlier time as well as things purchased throughout the last
+half of the nineteenth century.
+
+These materials also reveal much about the privy’s history. When
+compared with collections discarded around contemporary buildings, the
+artifacts from Middleton Place are similar to those often associated
+with abandoned buildings. The artifacts in the Middleton Place privy,
+then, are likely to have been deposited there, not as the result of
+day-to-day living, but as a consequence of cleaning out the rubbish of
+the house’s earlier occupants. We may identify the privy artifacts as a
+collection of items accumulated during a time of refurbishing as in the
+1920s when J. J. Pringle Smith moved into the family residence and began
+restoring it.
+
+    [Illustration: Figure 30. Many hours are spent in the laboratory
+    conserving and studying the artifacts.]
+
+Although interesting and informative as individual objects, the privy
+artifacts are much more informative as an “assemblage” resulting from
+past activities. The archeologist must study assemblages, like pieces of
+a puzzle, to reconstruct, interpret, and explain past events that
+produced them. It is important to record carefully all the artifacts
+found together as well as their relationships to one another and to the
+deposit from which they were removed. Artifacts taken from the ground
+without proper recording are removed from their archeological context,
+and the information they hold is forever lost. Aimless “treasure”
+digging has destroyed much of our historical heritage. The Middleton
+Place privy collection illustrates how proper care, recording, and
+analysis can reveal new information. With foresight and planning,
+archeology can increase knowledge of the past for ourselves and for
+future generations.
+
+
+
+
+                               APPENDIX I
+                      CERAMIC MANUFACTURERS’ MARKS
+
+
+    [Illustration: CERAMIC MANUFACTURERS’ MARKS]
+
+  A. Arthur J. Wilkinson, Royal Staffordshire Pottery, Burslem,
+          Staffordshire. White ironstone plate, 1891-1896.
+  B. John Edwards, Fenton, Staffordshire. White ironstone plate, c.
+          1891-1900.
+  C. John Maddock and Sons, Burslem, Staffordshire. White ironstone
+          plate, 1891-1896.
+  D. C. C. Thompson & Co., East Liverpool, Ohio. White ironstone nappy,
+          1884-1889.
+  E. Limoges, France. White porcelain saucer, c. 1875.
+  F. Haviland & Co., Limoges, France. White porcelain plate, c.
+          1876-1891.
+  G. Unidentified mark, decal-printed porcelain plate.
+  H. John and George Alcock, Cobridge, Staffordshire. Light blue,
+          transfer-printed bowl, 1839-1846.
+  I. Josiah Wedgwood, Burslem, Staffordshire. Impressed on creamware
+          sauce tureen, 1769 to present.
+  J. Unidentified impressed mark, white porcelain platter.
+
+
+
+
+                              APPENDIX II
+            SIGNIFICANT DATES IN THE AMERICAN GLASS INDUSTRY
+
+
+  First three-piece hinged mold                                     c. 1808
+  Two-piece hinged mold first used in America                       by 1809
+  First widespread use of slanting collar finish                    c. 1820
+  Ricketts patent for three-piece mold with lettered base              1821
+  First side-lever glass press                                   late 1820s
+  “Lacy” pressed glass                                          1820s-1840s
+  Popularity of smooth-patterned pressed glass tableware     c. 1840s-1880s
+  sets
+  Development of jawed lipping tool for bottles                    pre-1840
+  Amasa Stone receives first U.S. patent for lipping tool              1856
+  Introduction into U.S. of non-pontil holding devices     late 1840s-1850s
+  for bottles
+  Formula for kerosene patented by Abraham Gesner                      1854
+  Development of two-piece mold with separate post base            pre-1858
+  Mason jar patent                                                     1858
+  Blow-back mold in general use                                c. 1858-1900
+  First oil well in Pennsylvania leads to widespread use               1859
+  of kerosene fueled lamps
+  Introduction of French Square pharmacy bottles                early 1860s
+  Student lamp patented in Prussia                                     1863
+  Leighton formula for improved lime glass                             1864
+  Development of plate mold for embossed bottles                   pre-1867
+  Widespread embossing of bottles                               1860s-1920s
+  Empontilling of bottles almost entirely replaced by                 1870s
+  use of holding devices
+  Greatest popularity of turn-molded bottles                    1870s-1920s
+  Student lamp introduced in U.S.                                     1870s
+  Louis Pasteur developed sterilization techniques for                 1870
+  beer
+  Anheuser-Busch begins first commercial bottling of            early 1870s
+  American beer
+  Heavily embossed and colored poison bottles                    1872-1930s
+  Improved finishing processes result in smoother and               by 1880
+  more uniformly applied bottle finishes
+  Argobast patent for semiautomatic press-and-blow                     1881
+  machine for wide-mouthed jars
+  H. W. Putnam acquires patent rights for lightning                    1882
+  stopper
+  Borosilicate glass developed in Germany                              1883
+  Macbeth-Evans Co. patents “pearl top” lamp chimney                   1883
+  William Painter patents crown cap                                    1892
+  Enterprise Glass Co. puts Argobast semiautomatic into                1893
+  commercial production
+  South Carolina dispensary system                                1893-1907
+  Michael Owens patents semiautomatic turn-molding                     1894
+  machine for light bulbs, tumblers, and lamp chimneys
+  First lamp chimney and tumbler production on Owens                   1898
+  turn-mold machine
+  Most wide-mouthed jars produced on semiautomatic                  by 1901
+  machines
+  Owens automatic bottle machine patented                              1903
+  Owens machine put into commercial production: first                  1904
+  narrow-necked machine-made bottles
+  First production of narrow-necked bottles on                    _c._ 1907
+  semiautomatic machines
+  Corning Glass Works develops Pyrex heat-resistant glass              1915
+  Use of manganese to decolor glass                                    1917
+  State prohibition law goes into effect in South                      1916
+  Carolina
+  National beer and wine production halted under Wartime          1918-1920
+  Food Control Act and Volstead Act
+  National prohibition of alcohol under eighteenth                1920-1933
+  amendment and Volstead Act
+  Machine-made bottles comprise 90% of total United                    1925
+  States production
+
+
+
+
+                              APPENDIX III
+        MARKS LEFT BY DIFFERENT TECHNIQUES OF BOTTLE MANUFACTURE
+
+
+Free-blown bottles usually date before the second half of the nineteenth
+century and are characterized by an absence of mold lines of any sort.
+Because no molds were used, these bottles are often asymmetrical.
+Dip-molded bottles, or bottles molded for basic body shape below the
+shoulder, are also generally pre-Civil War and can only tentatively be
+distinguished from free-blown bottles by their symmetry below the
+shoulder and a slight tapering from shoulder to base. Bottles blown in a
+two-piece mold have mold lines extending up two opposite sides, usually
+to just below the tooled lip. On early nineteenth century bottles of
+this sort, the mold lines continue across the center of the base, but
+after the 1850s, most two-piece molds had a separate base part, either a
+cup bottom, in which the seam encircled the outer edge of the base, or a
+post bottom, which left a circular seam on the bottom of the bottle.
+Most bottles from the Middleton Place privy were blown in two-piece
+molds with cup bottoms.
+
+The three-piece mold leaves a single horizontal line around the shoulder
+of the bottle, and vertical lines extending up either side of the
+shoulder. The height of these lines can vary from partway up the
+shoulder to nearly to the top of the neck. A turn-molded bottle has been
+rotated in the mold to erase mold marks and will exhibit faint
+horizontal scratches and striations on the body and neck.
+
+Embossing, very popular after the Civil War, usually consists of the
+name of a company or product printed in raised letters on the sides or
+base of the bottle. Isolated numbers and letters on or just above the
+base are usually, but not always, mold numbers used by the manufacturer
+for identification. Embossed letters are sometimes carved into the body
+of the mold, but for smaller runs a plate mold, with a removable
+lettered plate on one or more sides, was used.
+
+Mold lines on bottles finished with a specialized lipping tool are
+usually obliterated by faint horizontal striations extending to about a
+quarter inch below the lip. The two-piece blow-back mold, however,
+leaves mold seams to the very edge of the lip, and a lip surface that
+has been ground smooth rather than shaped with a lipping tool.
+
+A pontil mark is a circular scar left on the base by the iron rod used
+to hold the bottle for finishing the neck and lip. Although there are
+many different methods of empontilling, only two types of marks were
+found on bottles from the Middleton Place privy. One is a “sand pontil
+mark,” a roughened grainy area covering most of the base, apparently the
+result of dipping the glasscoated pontil iron in sand before attaching
+it. The other is a “blow-pipe pontil mark,” which results from
+empontilling a bottle with the same pipe that was used to blow it. A
+blow-pipe mark is a distinct ring of glass the same size as the bottle
+neck.
+
+Pressed glass is formed with a plunger in a mold on one or more pieces.
+Pressed glass items are comparatively thick-walled, have smooth molded
+lips, usually with mold seams, and often are distinguished by a short,
+straight shear mark, like an isolated mold line, on the inside base.
+This mark is from the severing of the “gob” of glass before it is
+dropped into the mold. Bottles that are made on either automatic or
+semi-automatic machines will have mold lines encircling the top of the
+lip, as well as on the sides and base.
+
+
+
+
+                              APPENDIX IV
+      ARTIFACT CATALOGUE FROM THE MIDDLETON PLACE PRIVY EXCAVATION
+
+
+                    _Artifacts_                      _No. of    _Minimum
+                                                    Fragments_   No. of
+                                                                  Whole
+                                                                 Items_
+
+  Ceramics
+  Porcelain
+    Undecorated Haviland & Co. plate                         9          1
+    Undecorated saucer, D & Co., Limoges                     5          1
+    Undecorated saucer                                       6          1
+    Undecorated plates                                      17          2
+    Undecorated platter                                     13          2
+    Gold-banded cup                                          9          1
+    “Cornflower” pattern tea or bread plate                  4          1
+    Decal-printed tea plate or saucer, hallmark Alice /      5          1
+    Austria
+    Decal-printed Austrian teacup                           11          1
+    British meat dish, hand-painted oriental design         16          1
+    Chinese export porcelain serving dishes                  4          4
+  Creamware
+    Banded Wedgwood sauce tureen                             1          1
+    Undecorated baker                                        1          1
+  Whiteware
+    J & G Alcock “Tyrol” pattern transfer-printed bowl       5          1
+    Blue transfer-printed mug, rural English scene           6          1
+    Fragment of blue transfer-printed cup or bowl,           1          1
+    bucolic scene
+    Undecorated ironstone or graniteware nappy               5          1
+    Undecorated ironstone or graniteware plates             23          4
+    Undecorated ironstone or graniteware cup                 1          1
+    Molded white ironstone chamber pot                       4          1
+    English majolica pitcher handle                          1          1
+  Glass Tableware
+    “Four Band” style pressed glass tumbler                  1          1
+    Fluted pressed glass tumbler                             2          1
+    “Thumbprint” style pressed glass tumbler                 5          1
+    Engraved tumbler, floral design                          1          1
+    Wheel-cut champagne flute glass                          2          1
+    “Almond Thumbprint” pressed wine glass                   1          1
+    “Mascotte” pattern pressed wine glass                    1          1
+    Pressed glass lid                                        2          1
+    Cut glass pitcher                                        9          1
+    Fluted cut glass decanters                               8          2
+    Free-blown bowls                                        75          2
+  Bottles and Jars
+  Food Containers
+    Armour & Co. beef extract jar, white milk glass          1          1
+    Olive oil bottles, aquamarine glass                      2          2
+    American preserve jar, clear glass                       4          1
+  Alcohol Bottles
+    Palmetto Brewing Co. champagne beer bottle,              1          1
+    aquamarine glass
+    Export beer bottles, amber glass                         2          2
+    South Carolina Dispensary Jo-Jo flask, clear glass       4          1
+    South Carolina Dispensary Jo-Jo flask, aquamarine        3          1
+    glass
+    South Carolina Dispensary cylindrical whiskey            2          1
+    bottle, clear glass
+    Unembossed Union flasks, amber glass                    15          2
+    Unembossed Union flask, aquamarine glass                 1          1
+    Rhine Wine sample bottle, amber glass                    1          1
+    Dark Green wine or spirits bottles                      21          4
+  Medicine Bottles
+    Panknin Apothecary plate-molded prescription             3          3
+    bottles, French Square shape, clear glass
+    Panknin Apothecary plate-molded prescription             4          4
+    bottles. Philadelphia oval shape, clear glass
+    Unembossed French square prescription bottles, clear    20         14
+    glass
+    Narrow-mouthed round prescription bottles, clear         2          2
+    glass
+    Narrow-mouthed round prescription bottles,               3          3
+    aquamarine glass
+    Narrow-mouthed round prescription bottles, light         1          1
+    green glass
+    Wide-mouthed round prescription bottles, clear glass     3          3
+    Unembossed Baltimore oval prescription bottle, clear     1          1
+    glass
+    Unembossed Philadelphia oval prescription bottles,       2          2
+    clear glass
+    Unembossed taper neck oval prescription bottles,         2          2
+    clear glass
+    Neck fragment from round or oval prescription            1          1
+    bottle, clear glass
+    Paneled pharmacy bottles, clear glass                   26          3
+    Paneled pharmacy bottle aquamarine glass                 1          1
+    Free-blown apothecary vials, aquamarine glass            8          4
+    Maltine Mf’g Co. bottle, double Philadelphia oval        1          1
+    shape, amber glass
+    Keasbey & Mattison Bromo-Caffeine bottle, round,         1          1
+    cobalt blue
+    Rumford Chemical Works Horsford Acid Phosphate           1          1
+    bottle, octagonal, blue-green glass
+    Bullock & Crenshaw decagonal vial, clear lead glass      1          1
+    Unidentified embossed French square bottle, amber        5          1
+    glass
+    Whitall Tatum quilted poison bottle, cobalt blue         1          1
+  Ointment or Cosmetic Jars
+    White milk glass patch box with lid                      2          1
+    Aubry Sisters white milk glass screw top ointment pot    1          1
+  Pharmaceutical Accessories
+    Corks                                                    2          2
+    Clear glass Lubin stopper                                1          1
+    Clear glass medicine dropper                             2          1
+  Ink, Glue, and Polish Bottles
+    Clear glass conical ink bottles, machine-made,           1          1
+    Carter’s Ink Co.
+    Clear glass cylinder ink bottle, machine-made            1          1
+    Amber glass conical ink bottle, blow-molded              1          1
+    Bell mucilage bottle, aquamarine glass                   2          1
+    British brown stoneware blacking or master ink bottle    1          1
+    Tappan’s Relucent gold and silver polish bottle          1          1
+    Ink bottle cork                                          1          1
+  Lamp Glass
+    Student lamp chimney                                     2          1
+    “Pearl top” and crimped lamp chimney                    19          4
+  Laboratory Glass
+    Pontil-marked beaker                                     2          1
+  Metal
+    Pewter Spoon                                             1          1
+    Brass curtain rings                                      7          7
+    Pill box with lid                                        1          1
+    Square-cut spike                                         1          1
+    Machine-cut nails                                        4          4
+    Hand-wrought nails                                       3          3
+    Hazel hoe                                                1          1
+  Coins
+    Liberty head quarters                                    5          5
+    Liberty head nickel                                      1          1
+  Personal Items
+    French toothbrushes                                      2          2
+    Lady’s leather shoe heel                                 2          1
+    White clay pipestem                                      1          1
+  Other
+    Isinglass stove windows                                  3          3
+    Delft tile fragment                                      1          1
+    Terracotta drainpipe fragment                            1          1
+    Window glass                                             1          1
+    Slate tile fragment                                      1          1
+  TOTAL                                                    473        164
+
+
+
+
+                         SELECTED BIBLIOGRAPHY
+
+
+The information contained in this booklet is a partial synopsis of
+archeological reports published by the Institute of Archeology and
+Anthropology, University of South Carolina, as Numbers 148 and 174 of
+the _Research Manuscript Series_. For a detailed treatment of the
+history and archeology of Middleton Place, and a complete listing of
+bibliographic sources, the reader is referred to _Middleton Place:
+initial archeological investigations at an Ashley River rice plantation_
+by Kenneth E. Lewis and Donald L. Hardesty (1979), and _The Middleton
+Place privy: disposal behavior and the archeological record_ by Kenneth
+E. Lewis and Helen W. Haskell (1981). General reference works on
+historical archeology and artifacts are listed below.
+
+  Baron, Stanley
+      1962   _Brewed in America: a history of beer and ale in the United
+          States._ Little, Brown, & Co., Boston.
+  Cheves, Langdon
+      1900   Middleton of South Carolina. _South Carolina Historical and
+          Genealogical Magazine 1:(3)_: 228-262.
+  Collard, Elizabeth
+      1967   _Nineteenth century pottery and porcelain in Canada._
+          McGill University Press, Montreal.
+  Cox, Warren E.
+      1970   _The book of pottery and porcelain._ Crown Publishers, New
+          York.
+  Daniel, Dorothy
+      1971   _Cut and engraved glass, 1771-1905._ William Morrow & Co.,
+          New York.
+  Douglas, R. W. and S. Frank
+      1972   _A history of glassmaking._ G. T. Foulis & Co.,
+          Henley-on-Thames.
+  Godden, Geoffrey A.
+      1974   _British pottery: an illustrated guide._ Barrie & Jenkins,
+          London.
+  Huggins, Philip K.
+      1971   _The South Carolina dispensary._ Sandlapper Press,
+          Columbia.
+  Hughes, G. Bernard
+      1960   _English and Scottish earthenware 1660-1880._ Abbey Fine
+          Arts, London.
+  Lee, Ruth Webb
+      1960   _Early American pressed glass._ Northboro, Massachusetts.
+  Lehner, Lois
+      1980   _Complete book of American kitchen and dinner wares._
+          Wallace Homestead, Des Moines.
+  McKearin, George P. and Helen McKearin
+      1966   _American glass._ Crown Publishers, New York.
+  McKearin, Helen and Kenneth M. Wilson
+      1978   _American bottles and flasks and their ancestry._ Crown
+          Publishers, New York.
+  Munsey, Cecil
+      1970   _The illustrated guide to collecting bottles._ Hawthorn
+          Books, New York.
+  Noël Hume, Ivor
+      1969   _Historical archaeology._ Alfred A. Knopf, New York.
+      1970   _A guide to artifacts of colonial America._ Alfred A.
+          Knopf, New York.
+  Revi, Albert C.
+      1964   _American pressed glass and figure bottles._ Thomas Nelson
+          & Sons, New York.
+  Russell, Loris
+      1968   _A heritage of light._ University of Toronto Press,
+          Toronto.
+  Scoville, Warren C.
+      1948   _Revolution in glassmaking: entrepreneurship and
+          technological change in the American glass industry,
+          1880-1920._ Harvard University Press, Cambridge.
+  South, Stanley A.
+      1977.   _Method and theory in historical archeology._ Academic
+          Press, New York.
+  Toulouse, Julian H.
+      1969a   A primer on mold seams. _Western Collector_ 7(11):
+          526-535.
+      1969b   A primer on mold seams. _Western Collector_ 7(12):
+          578-587.
+  Wetherbee, Jean
+      1980   _A look at white ironstone._ Wallace Homestead, Des Moines.
+  Wright, Louis B.
+      1976   _South Carolina, a bicentennial history._ W. W. Norton &
+          Co., New York.
+
+
+
+
+                          Transcriber’s Notes
+
+
+—Silently corrected a few typos.
+
+—Retained publication information from the printed edition: this eBook
+  is public-domain in the country of publication.
+
+—In the text versions only, text in italics is delimited by
+  _underscores_.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE MIDDLETON PLACE PRIVY HOUSE ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
